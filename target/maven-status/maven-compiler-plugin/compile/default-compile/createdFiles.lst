@@ -1,0 +1,4 @@
+com/testing/microservices/organizationservice/config/ConfigComponent.class
+com/testing/microservices/organizationservice/Application.class
+com/testing/microservices/organizationservice/model/Organization.class
+com/testing/microservices/organizationservice/controllers/OrganizationServiceController.class
